@@ -10,6 +10,7 @@ document.write('\
       <a href="./digdug.html">Dig Dug</a>\
       <a href="./frogger.html">Frogger</a>\
       <a href="./bubblebobble.html">Bubble Bobble</a>\
+      <a href="./secret.html">Secret</a>\
   </div>\
 </div>\
 \
